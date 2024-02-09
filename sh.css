@@ -10,11 +10,11 @@
      --secondary2-colour: rgba(100,100,100,0.5);
      --secondary3-colour: rgba(0,0,0,0.5);
  
-     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+     --transparency-1: linear-gradient(to right, rgba(255, 0, 0, 0.5), rgba(1, 245, 212, 0.5));
+     --transparency-2: linear-gradient(to right, rgb(178, 255, 36), rgb(0, 17, 255));
+     --transparency-3: linear-gradient(to right, rgb(255, 123, 0), rgb(255, 0, 0));
+     --transparency-4: linear-gradient(to right, rgba(255, 0, 234, 0.5), rgb(252, 227, 10));
+     --transparency-5: linear-gradient(to right, rgba(108, 10, 153, 0.856), rgb(255, 0, 140));
  }
    
  /*
